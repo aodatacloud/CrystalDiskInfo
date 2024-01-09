@@ -42,3 +42,5 @@ Te permite copiar el texto del dato seleccionado.
 ### Tema
 Permite añadir Zoom, cambiar la fuente de texto y cambiar el tema general de CrystalDiskInfo para un nuevo aspecto (o activar el modo oscuro con el tema Dark).
 
+# Autor
+AO Data Cloud - [www.aodatacloud.es](aodatacloud.es) [Mantenimiento informático](https://aodatacloud.es/servicios-gestionados-it-2/mantenimiento-informatico/) 
